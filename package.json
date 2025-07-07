@@ -2,7 +2,7 @@
   "name": "blockchain-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shraddhashetty81.github.io/blockchain-app",
+  "homepage": "https://shraddhashetty81.github.io/blockchain",
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
