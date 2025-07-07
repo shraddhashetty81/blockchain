@@ -1,0 +1,38 @@
+.services {
+  background: white;
+}
+
+.services-grid {
+  margin-top: 3rem;
+}
+
+.service-card {
+  text-align: center;
+  padding: 2.5rem 2rem;
+  border: 1px solid #e2e8f0;
+  transition: all 0.3s ease;
+}
+
+.service-card:hover {
+  border-color: #667eea;
+  transform: translateY(-5px);
+}
+
+.service-icon {
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.service-card h4 {
+  color: #2d3748;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.service-card p {
+  color: #718096;
+  line-height: 1.6;
+  font-size: 0.95rem;
+} 

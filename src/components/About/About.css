@@ -1,0 +1,30 @@
+.about {
+  background: #f8fafc;
+}
+
+.about-grid {
+  margin-top: 3rem;
+}
+
+.about-card {
+  text-align: center;
+  padding: 3rem 2rem;
+  height: 100%;
+}
+
+.about-card .icon {
+  font-size: 3rem;
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.about-card h4 {
+  color: #2d3748;
+  margin-bottom: 1rem;
+  font-size: 1.3rem;
+}
+
+.about-card p {
+  color: #718096;
+  line-height: 1.7;
+} 
